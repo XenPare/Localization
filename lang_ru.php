@@ -89,7 +89,7 @@
 		"reports" => "<i class='fa fa-legal has-text-white' aria-hidden='true'></i> Жалобы",
 		"appeals" => "<i class='fa fa-hand-stop-o has-text-white' aria-hidden='true'></i> Прошения",
 		"applications" => "<i class='fa fa-user-plus has-text-white' aria-hidden='true'></i> Заявки",
-		"suggestions" => "<i class='fa fa-lightbulb-o has-text-white' aria-hidden='true'></i> Предложения",
+		"suggestions" => "<i class='fa fa-mortar-board has-text-white' aria-hidden='true'></i> Предложения",
 		"issues" => "<i class='fa fa-warning has-text-dark' aria-hidden='true'></i> Проблемы"
 	);
 ?>
