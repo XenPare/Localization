@@ -8,6 +8,7 @@
 		"profile" => "Profil",
 		"login" => "Connexion",
 		"logout" => "Déconnexion",
+		"donators" => "Donateurs",
 
 		"who" => "Qui sommes-nous ?",
 		"host" => "Les serveurs Garry's mod que nous hébergeons",
@@ -56,9 +57,40 @@
 		"ttt_desc" => 'Le jeu met en scène un groupe de "terroristes" qui comptent parmi eux des traîtres et qui cherchent à tuer tous ceux qui ne sont pas des traîtres.',
 		"gc_desc" => "Il s'agit d'un mode de jeu qui met fortement l'accent sur le travail d'équipe et la mortalité des combats.",
 		"xprp_desc" => "L'idée de base de ce mode de jeu basé sur DarkRP est une simulation de la vie urbaine.",
+		"rust_desc" => "Ceci est un jeu de survie multijoueur.",
 
 		"join" => "Rejoindre",
 
-		"media" => "Nos réseaux sociaux"
+		"media" => "Nos réseaux sociaux",
+
+		"peacekeepers1" => "Depuis le deuxième trimestre de 2020, nous n'acceptons et fournissons plus aucun service de donation sur nos serveurs.",
+		"peacekeepers2" => "Ici vous sont présenté les personnes qui ont contribué à notre communauté.",
+
+		"error_login" => "S'il vous plaît, connectez-vous.",
+		"error" => "Erreur !",
+
+		"forum" => "Forum",
+		"forum_new" => "Nouveau topic",
+		"forum_send" => "Envoyer",
+		"forum_warning" => "S'il vous plaît, n'insulter pas d'autre membre du forum, sinon vous avez un risque d'être banni du forum.",
+
+		"post_warning" => "Vous ne pourrez pas modifier votre topic",
+
+		"category" => "Catégorie",
+		"done" => "Terminé !",
+
+		"title" => "Titre",
+		"text" => "Écris quelque chose",
+
+		"messages" => "messages",
+		"threads" => "topics",
+		"at" => "à",
+
+		"general" => "<i class='fa fa-asterisk has-text-white' aria-hidden='true'></i> Général",
+		"reports" => "<i class='fa fa-legal has-text-white' aria-hidden='true'></i> Rapports",
+		"appeals" => "<i class='fa fa-hand-stop-o has-text-white' aria-hidden='true'></i> Appels",
+		"applications" => "<i class='fa fa-user-plus has-text-white' aria-hidden='true'></i> Applications",
+		"suggestions" => "<i class='fa fa-lightbulb-o has-text-white' aria-hidden='true'></i> Suggestions",
+		"issues" => "<i class='fa fa-warning has-text-dark' aria-hidden='true'></i> Problèmes"
 	);
 ?>
