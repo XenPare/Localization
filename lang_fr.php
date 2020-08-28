@@ -89,7 +89,7 @@
 		"reports" => "<i class='fa fa-legal has-text-white' aria-hidden='true'></i> Rapports",
 		"appeals" => "<i class='fa fa-hand-stop-o has-text-white' aria-hidden='true'></i> Appels",
 		"applications" => "<i class='fa fa-user-plus has-text-white' aria-hidden='true'></i> Applications",
-		"suggestions" => "<i class='fa fa-lightbulb-o has-text-white' aria-hidden='true'></i> Suggestions",
+		"suggestions" => "<i class='fa fa-mortar-board has-text-white' aria-hidden='true'></i> Suggestions",
 		"issues" => "<i class='fa fa-warning has-text-dark' aria-hidden='true'></i> Problèmes"
 	);
 ?>
