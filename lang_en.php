@@ -31,7 +31,6 @@
 		"region_info" => "The region is auto-selected by your country",
 
 		"warning" => "Warning",
-		"warning_txt" => "All news are auto translated, expect the mistakes.",
 
 		"0" => "Offline",
 		"1" => "Online",
