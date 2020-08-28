@@ -31,7 +31,6 @@
 		"region_info" => "La région est sélectionnée automatiquement par votre pays",
 
 		"warning" => "Avertissement",
-		"warning_txt" => "Toutes les nouvelles sont traduites automatiquement, attendez-vous aux erreurs.",
 
 		"0" => "Hors ligne",
 		"1" => "En ligne",
