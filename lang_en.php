@@ -8,6 +8,7 @@
 		"profile" => "Profile",
 		"login" => "Log in",
 		"logout" => "Log out",
+		"donators" => "Peacekeepers",
 
 		"who" => "Who we are ?",
 		"host" => "Garry's mod servers we host",
@@ -56,9 +57,40 @@
 		"ttt_desc" => 'The gamemode is about a group of "terrorists" who have traitors among them, out to kill everyone who is not a traitor.',
 		"gc_desc" => "This is a gamemode that focuses heavily on teamwork and lethality of combat.",
 		"xprp_desc" => "This is a based on DarkRP gamemode of a simulation of urban life.",
+		"rust_desc" => "This is a multuplayer survival game.",
 
 		"join" => "Join",
 
-		"media" => "Our social media"
+		"media" => "Our social media",
+
+		"peacekeepers1" => "Since the second half of 2020, we no longer accept or provide donation services on our servers.",
+		"peacekeepers2" => "Here are the people who have contributed to the community.",
+
+		"error_login" => "Please, log in.",
+		"error" => "Error !",
+
+		"forum" => "Forum",
+		"forum_new" => "New thread",
+		"forum_send" => "Send",
+		"forum_warning" => "Please, do not insult another forum members, otherwise you have a risk to get banned on the forum.",
+
+		"post_warning" => "You won't be able to delete your thread.",
+
+		"category" => "Category",
+		"done" => "Done !",
+
+		"title" => "Title",
+		"text" => "Write something",
+
+		"messages" => "messages",
+		"threads" => "threads",
+		"at" => "at",
+
+		"general" => "<i class='fa fa-asterisk has-text-white' aria-hidden='true'></i> General",
+		"reports" => "<i class='fa fa-legal has-text-white' aria-hidden='true'></i> Reports",
+		"appeals" => "<i class='fa fa-hand-stop-o has-text-white' aria-hidden='true'></i> Appeals",
+		"applications" => "<i class='fa fa-user-plus has-text-white' aria-hidden='true'></i> Applications",
+		"suggestions" => "<i class='fa fa-lightbulb-o has-text-white' aria-hidden='true'></i> Suggestions",
+		"issues" => "<i class='fa fa-warning has-text-dark' aria-hidden='true'></i> Issues"
 	);
 ?>
