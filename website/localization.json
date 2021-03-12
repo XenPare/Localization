@@ -1,0 +1,129 @@
+{
+	"ru": {
+		"title": "Сеть игровых серверов",
+		"home": "Главная",
+		"servers":"Серверы",
+		"login": "Войти через Steam",
+
+		"peacekeepers":"Миротворцы",
+		"peacekeepers_help": "Со второй половины 2020 года мы больше не проводим микротранзакции на наших проектах. Здесь указаны наши герои прошлого.",
+
+		"q1_title": "Мы создаём новые режимы",
+		"q1_desc": "Мы рады делать новые режимы для полюбившихся нам игр.<br>Наши режимы Fray и Fubaru будут уже скоро !",
+		"q1_help": "Следите за нашим прогрессом на GitHub !",
+
+		"q2_title": "Мы не проводим микротранзакции на наших проектах",
+		"q2_desc": "Не верите ? Проверьте сами !",
+
+		"q3_title": "Мы объединяем разработчиков чтобы создавать уютные и мощные площадки",
+		"q3_desc": "Большинство администрации это разработчики, которые обожают улучшать и не без того хорошие игры",
+
+		"q4_title": "Присоединяйтесь к нашему сообществу !",
+
+		"links": "Ссылки",
+		"services": "Сервисы",
+
+		"about": "О нас",
+		"about_more": "Мы являемся энтузиастским игровым проектом, нацеленным на бесплатность и комфорт.",
+
+		"account_linking": "Привязка аккаунтов",
+
+		"gaming_servers": "Игровые серверы",
+		"gaming_servers_more": "Вы можете получить больше информации через наших XPAI ботов.",
+
+		"name": "Имя",
+		"players": "Игроки",
+		"map": "Карта",
+		"status": "Статус",
+		"donated": "Пожертвовано",
+
+		"online": "В сети",
+		"offline": "Вне сети"
+	},
+
+	"en": {
+		"title": "Gaming Servers Network",
+		"home": "Home",
+		"servers":"Servers",
+		"login": "Log in via Steam",
+
+		"peacekeepers":"Peacekeepers",
+		"peacekeepers_help": "Since the second half of 2020, we no longer accept or provide microtransaction services on our servers. Here are our heroes of the past.",
+
+		"q1_title": "We make new gamemodes",
+		"q1_desc": "We are really happy to make new gamemodes for our lovely games.<br>Our Fray and Fubaru gamemodes are coming soon !",
+		"q1_help": "Check our progress on GitHub !",
+
+		"q2_title": "We don't provide microtransactions on our projects",
+		"q2_desc": "Don't believe us ? Check it yourself !",
+
+		"q3_title": "We unite developers to make cozy and powerful playgrounds",
+		"q3_desc": "Most of our admins are developers who love making games better",
+
+		"q4_title": "Join our community !",
+
+		"links": "Links",
+		"services": "Services",
+
+		"about": "About",
+		"about_more": "We are an enthusiastic gaming project that is focused on being free and comfy.",
+
+		"account_linking": "Account Linking",
+
+		"gaming_servers": "Gaming Servers",
+		"gaming_servers_more": "Our gaming servers",
+		"gaming_servers_help": "You can get more info through our XPAI bots.",
+
+		"name": "Name",
+		"players": "Players",
+		"map": "Map",
+		"status": "Status",
+		"donated": "Donated",
+
+		"online": "Online",
+		"offline": "Offline"
+	},
+
+	"fr": {
+		"title": "Gaming Servers Network",
+		"home": "Home",
+		"servers":"Servers",
+		"login": "Log in via Steam",
+
+		"peacekeepers":"Peacekeepers",
+		"peacekeepers_help": "Since the second half of 2020, we no longer accept or provide microtransaction services on our servers. Here are our heroes of the past.",
+
+		"q1_title": "We make new gamemodes",
+		"q1_desc": "We are really happy to make new gamemodes for our lovely games.<br>Our Fray and Fubaru gamemodes are coming soon !",
+		"q1_help": "Check our progress on GitHub !",
+
+		"q2_title": "We don't provide microtransactions on our projects",
+		"q2_desc": "Don't believe us ? Check it yourself !",
+
+		"q3_title": "We unite developers to make cozy and powerful playgrounds",
+		"q3_desc": "Most of our admins are developers who love making games better",
+
+		"q4_title": "Join our community !",
+
+		"links": "Links",
+		"services": "Services",
+
+		"about": "About",
+		"about_more": "We are an enthusiastic gaming project that is focused on being free and comfy.",
+
+		"account_linking": "Account Linking",
+
+		"gaming_servers": "Gaming Servers",
+		"gaming_servers_more": "Our gaming servers",
+		"gaming_servers_help": "You can get more info through our XPAI bots.",
+
+		"name": "Name",
+		"players": "Players",
+		"map": "Map",
+		"status": "Status",
+		"donated": "Donated",
+
+		"online": "Online",
+		"offline": "Offline"
+	}
+}
