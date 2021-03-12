@@ -85,45 +85,44 @@
 	},
 
 	"fr": {
-		"title": "Gaming Servers Network",
-		"home": "Home",
-		"servers":"Servers",
-		"login": "Log in via Steam",
+		"title": "Network de serveurs de jeux",
+		"home": "Accueil",
+		"servers":"Serveurs",
+		"login": "Se connecter via Steam",
 
-		"peacekeepers":"Peacekeepers",
-		"peacekeepers_help": "Since the second half of 2020, we no longer accept or provide microtransaction services on our servers. Here are our heroes of the past.",
+		"peacekeepers":"Bienfaiteurs",
+		"peacekeepers_help": "Depuis milieu 2020, nous n'acceptons ou ne fournissons plus de microtransactions sur nos serveurs. Voici nos héros du passé.",
 
-		"q1_title": "We make new gamemodes",
-		"q1_desc": "We are really happy to make new gamemodes for our lovely games.<br>Our Fray and Fubaru gamemodes are coming soon !",
-		"q1_help": "Check our progress on GitHub !",
+		"q1_title": "Nous faisons de nouveaux modes de jeux",
+		"q1_desc": "Nous sommes très heureux de faire des modes de jeux pour nos jeux adorés.<br>Nos modes de jeux Fray et Fubaru arrivent très bientôt !",
+		"q1_help": "Regardez nos progrès sur GitHub !",
 
-		"q2_title": "We don't provide microtransactions on our projects",
-		"q2_desc": "Don't believe us ? Check it yourself !",
+		"q2_title": "Nous ne fournissons pas de microtransactions sur nos projets",
+		"q2_desc": "Vous ne nous croyez pas ? Regardez par vous-même !",
 
-		"q3_title": "We unite developers to make cozy and powerful playgrounds",
-		"q3_desc": "Most of our admins are developers who love making games better",
+		"q3_title": "Nous unissons nos développeurs pour créer des terrains de jeu confortables et puissants",
+		"q3_desc": "La plupart de nos admins sont des développeurs qui adorent rendre les jeux meilleurs.",
 
-		"q4_title": "Join our community !",
+		"q4_title": "Rejoignez notre communauté !",
 
-		"links": "Links",
+		"links": "Liens",
 		"services": "Services",
 
-		"about": "About",
-		"about_more": "We are an enthusiastic gaming project that is focused on being free and comfy.",
+		"about": "A propos",
+		"about_more": "Nous sommes un projet de jeu enthousiaste qui vise à rester gratuit et confortable.",
 
-		"account_linking": "Account Linking",
+		"account_linking": "Liaison de compte",
 
-		"gaming_servers": "Gaming Servers",
-		"gaming_servers_more": "Our gaming servers",
-		"gaming_servers_help": "You can get more info through our XPAI bots.",
+		"gaming_servers": "Serveurs de jeux",
+		"gaming_servers_more": "Vous pouvez obtenir plus d'informations grâce à nos bots XPAI.",
 
-		"name": "Name",
-		"players": "Players",
+		"name": "Nom",
+		"players": "Joueurs",
 		"map": "Map",
 		"status": "Status",
-		"donated": "Donated",
+		"donated": "Montant donné",
 
-		"online": "Online",
-		"offline": "Offline"
+		"online": "En ligne",
+		"offline": "Hors-ligne"
 	}
 }
