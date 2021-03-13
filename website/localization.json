@@ -1,6 +1,9 @@
 {
 	"ru": {
 		"title": "Сеть игровых серверов",
+
+		"menu": "Меню",
+
 		"home": "Главная",
 		"servers":"Серверы",
 		"login": "Войти через Steam",
@@ -44,6 +47,9 @@
 
 	"en": {
 		"title": "Gaming Servers Network",
+
+		"menu": "Menu",
+
 		"home": "Home",
 		"servers":"Servers",
 		"login": "Log in via Steam",
@@ -88,6 +94,9 @@
 
 	"fr": {
 		"title": "Network de serveurs de jeux",
+
+		"menu": "Menu",
+
 		"home": "Accueil",
 		"servers":"Serveurs",
 		"login": "Se connecter via Steam",
