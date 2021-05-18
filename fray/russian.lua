@@ -94,7 +94,8 @@ LANG.Phrases = {
 
 	["radar"] = "Радар",
 	["radar_description"] = "Позволяет вам засекать игроков поблизости.",
-	["radar_equipped"] = "Радар уже экипирован.",
+	["radar_equipped"] = "Радар включён.",
+	["radar_unequipped"] = "Радар выключен.",
 
 	["muffler"] = "Глушитель",
 	["muffler_description"] = "Глушит радары поблизости.",
@@ -102,8 +103,8 @@ LANG.Phrases = {
 	["medicine"] = "Аптечка",
 	["medicine_description"] = "Используйте чтобы вылечиться.",
 
-	["bondage"] = "Бинт",
-	["bondage_description"] = "Используйте чтобы остановить кровотечение.",
+	["bandage"] = "Бинт",
+	["bandage_description"] = "Используйте чтобы остановить кровотечение.",
 
 	["food"] = "Еда",
 	["food_description"] = "Используйте чтобы утолить голод.",
