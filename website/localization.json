@@ -6,7 +6,7 @@
 
 		"home": "Главная",
 		"servers":"Серверы",
-		"login": "Войти через Steam",
+		"login": "Войти через Discord",
 		"logout": "Выйти",
 
 		"peacekeepers":"Миротворцы",
@@ -35,11 +35,17 @@
 		"gaming_servers": "Игровые серверы",
 		"gaming_servers_more": "Вы можете получить больше информации через наших XPAI ботов.",
 
+		"bans": "Блокировки",
+		"bans_help": "найдено",
+
 		"name": "Имя",
 		"players": "Игроки",
 		"map": "Карта",
 		"status": "Статус",
 		"donated": "Пожертвовано",
+		"reason": "Причина",
+		"remaining": "Осталось",
+		"expired": "Снята",
 
 		"online": "В сети",
 		"offline": "Вне сети"
@@ -52,7 +58,7 @@
 
 		"home": "Home",
 		"servers":"Servers",
-		"login": "Log in via Steam",
+		"login": "Log in via Discord",
 		"logout": "Log out",
 
 		"peacekeepers":"Peacekeepers",
@@ -82,11 +88,17 @@
 		"gaming_servers_more": "Our gaming servers",
 		"gaming_servers_help": "You can get more info through our XPAI bots.",
 
+		"bans": "Bans",
+		"bans_help": "found",
+
 		"name": "Name",
 		"players": "Players",
 		"map": "Map",
 		"status": "Status",
 		"donated": "Donated",
+		"reason": "Reason",
+		"remaining": "Remaining",
+		"expired": "Expired",
 
 		"online": "Online",
 		"offline": "Offline"
@@ -99,7 +111,7 @@
 
 		"home": "Accueil",
 		"servers":"Serveurs",
-		"login": "Se connecter via Steam",
+		"login": "Se connecter via Discord",
 		"logout": "Déconnexion",
 
 		"peacekeepers":"Bienfaiteurs",
@@ -128,11 +140,17 @@
 		"gaming_servers": "Serveurs de jeux",
 		"gaming_servers_more": "Vous pouvez obtenir plus d'informations grâce à nos bots XPAI.",
 
+		"bans": "Bans",
+		"bans_help": "trouvés",
+
 		"name": "Nom",
 		"players": "Joueurs",
 		"map": "Map",
 		"status": "Status",
 		"donated": "Montant donné",
+		"reason": "Raison",
+		"remaining": "T.Restant",
+		"expired": "Expiré",
 
 		"online": "En ligne",
 		"offline": "Hors-ligne"
