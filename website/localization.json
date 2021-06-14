@@ -9,9 +9,6 @@
 		"login": "Войти через Discord",
 		"logout": "Выйти",
 
-		"peacekeepers":"Миротворцы",
-		"peacekeepers_help": "Со второй половины 2020 года мы больше не проводим микротранзакции на наших проектах. Здесь указаны наши герои прошлого.",
-
 		"q1_title": "Мы создаём новые режимы",
 		"q1_desc": "Мы рады делать новые режимы для полюбившихся нам игр.<br>Наши режимы будут уже скоро !",
 		"q1_help": "Следите за нашим прогрессом на GitHub !",
@@ -48,7 +45,9 @@
 		"expired": "Снята",
 
 		"online": "В сети",
-		"offline": "Вне сети"
+		"offline": "Вне сети",
+
+		"news": "Последние новости"
 	},
 
 	"en": {
@@ -60,9 +59,6 @@
 		"servers":"Servers",
 		"login": "Log in via Discord",
 		"logout": "Log out",
-
-		"peacekeepers":"Peacekeepers",
-		"peacekeepers_help": "Since the second half of 2020, we no longer accept or provide microtransaction services on our servers. Here are our heroes of the past.",
 
 		"q1_title": "We make new gamemodes",
 		"q1_desc": "We are really happy to make new gamemodes for our lovely games.<br>Our gamemodes are coming soon !",
@@ -101,7 +97,9 @@
 		"expired": "Expired",
 
 		"online": "Online",
-		"offline": "Offline"
+		"offline": "Offline",
+
+		"news": "Latest news"
 	},
 
 	"fr": {
@@ -113,9 +111,6 @@
 		"servers":"Serveurs",
 		"login": "Se connecter via Discord",
 		"logout": "Déconnexion",
-
-		"peacekeepers":"Bienfaiteurs",
-		"peacekeepers_help": "Depuis milieu 2020, nous n'acceptons ou ne fournissons plus de microtransactions sur nos serveurs. Voici nos héros du passé.",
 
 		"q1_title": "Nous faisons de nouveaux modes de jeux",
 		"q1_desc": "Nous sommes très heureux de faire des modes de jeux pour nos jeux adorés.<br>Nos modes de jeux arrivent très bientôt !",
@@ -153,6 +148,8 @@
 		"expired": "Expiré",
 
 		"online": "En ligne",
-		"offline": "Hors-ligne"
+		"offline": "Hors-ligne",
+
+		"news": "Dernières nouvelles"
 	}
 }
