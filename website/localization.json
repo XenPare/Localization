@@ -14,7 +14,7 @@
 		"q1_help": "Следите за нашим прогрессом на GitHub !",
 
 		"q2_title": "Мы не проводим микротранзакции на наших проектах",
-		"q2_desc": "Не верите ? Проверьте сами !",
+		"q2_desc": "Не верите ?<br>Проверьте сами !",
 
 		"q3_title": "Мы объединяем разработчиков чтобы создавать уютные и мощные площадки",
 		"q3_desc": "Большинство администрации это разработчики, которые обожают улучшать и без того хорошие игры",
@@ -47,7 +47,12 @@
 		"online": "В сети",
 		"offline": "Вне сети",
 
-		"news": "Последние новости"
+		"report": "Отправить жалобу",
+		"report_help": "Ваши контакты будут отправлены нашим администраторам для рассмотрения вашей проблемы и связи с вами",
+		"report_server": "Выберите сервер",
+		"report_description": "Опишите вашу жалобу используя доказательства и ссылки на них",
+
+		"submit": "Отправить"
 	},
 
 	"en": {
@@ -65,7 +70,7 @@
 		"q1_help": "Check our progress on GitHub !",
 
 		"q2_title": "We don't provide microtransactions on our projects",
-		"q2_desc": "Don't believe us ? Check it yourself !",
+		"q2_desc": "Don't believe us ?<br>Check it yourself !",
 
 		"q3_title": "We unite developers to make cozy and powerful playgrounds",
 		"q3_desc": "Most of our admins are developers who love making games better",
@@ -99,7 +104,12 @@
 		"online": "Online",
 		"offline": "Offline",
 
-		"news": "Latest news"
+		"report": "Send a report",
+		"report_help": "Your contacts will be sent to our admins to consider your problem and contact with you",
+		"report_server": "Choose a server",
+		"report_description": "Describe your report with proof and links to them",
+
+		"submit": "Submit"
 	},
 
 	"fr": {
@@ -117,7 +127,7 @@
 		"q1_help": "Regardez nos progrès sur GitHub !",
 
 		"q2_title": "Nous ne fournissons pas de microtransactions sur nos projets",
-		"q2_desc": "Vous ne nous croyez pas ? Regardez par vous-même !",
+		"q2_desc": "Vous ne nous croyez pas ?<br>Regardez par vous-même !",
 
 		"q3_title": "Nous unissons nos développeurs pour créer des terrains de jeu confortables et puissants",
 		"q3_desc": "La plupart de nos admins sont des développeurs qui adorent rendre les jeux meilleurs.",
@@ -150,6 +160,11 @@
 		"online": "En ligne",
 		"offline": "Hors-ligne",
 
-		"news": "Dernières nouvelles"
+		"report": "Envoyer un rapport",
+		"report_help": "Vos contacts seront envoyés à nos administrateurs pour étudier votre problème et vous contacter",
+		"report_server": "Choisissez un serveur",
+		"report_description": "Décrivez votre rapport avec des preuves et des liens vers eux",
+
+		"submit": "Soumettre"
 	}
 }
