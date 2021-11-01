@@ -52,6 +52,9 @@
 		"report_server": "Выберите сервер",
 		"report_description": "Опишите вашу жалобу используя доказательства и ссылки на них",
 
+		"finder": "Поиск игроков",
+		"finder_playtime": "Наиграно",
+
 		"submit": "Отправить"
 	},
 
@@ -109,6 +112,9 @@
 		"report_server": "Choose a server",
 		"report_description": "Describe your report with proof and links to them",
 
+		"finder": "Finder",
+		"finder_playtime": "Playtime",
+
 		"submit": "Submit"
 	},
 
@@ -164,6 +170,9 @@
 		"report_help": "Vos contacts seront envoyés à nos administrateurs pour étudier votre problème et vous contacter",
 		"report_server": "Choisissez un serveur",
 		"report_description": "Décrivez votre rapport avec des preuves et des liens vers eux",
+
+		"finder": "Recherche de joueurs",
+		"finder_playtime": "Temps de jeu",
 
 		"submit": "Soumettre"
 	}
